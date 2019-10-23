@@ -1,0 +1,16 @@
+.disp{
+    background: linear-gradient(180deg,rgba(24, 23, 1, 0.938), rgba(0, 0, 0, 0.8)), url('./images/bg2.jpg');
+    height: 60vh;
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+    margin-top: 13%;
+}
+
+button#shop{
+    background-color:#d0ff00;
+    padding: 12px 25px;
+    font-weight: bold;
+}
